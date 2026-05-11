@@ -1,3 +1,3 @@
 # demo-pro
-This is my first demo project which is going to be my start to this application.
+This is my first git repository. Learning about this application as a course.
 My name is teja
